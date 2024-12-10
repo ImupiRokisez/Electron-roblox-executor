@@ -6,6 +6,7 @@ Electron Executor is a cutting-edge script executor for Roblox, designed for use
 This executor provides regular updates to stay aligned with Roblox’s latest patches, maintaining top-tier performance and security. With an intuitive interface and robust functionality, Electron Executor is the perfect tool for elevating your scripting experience.
 
 Unique Features of Electron Executor:
+
 High-Speed Execution: Enjoy lightning-fast script injection and execution for smooth gameplay.
 
 Custom Script Manager: Organize and manage your scripts effortlessly with a built-in script library.
